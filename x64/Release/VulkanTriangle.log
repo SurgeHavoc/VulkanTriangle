@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1027 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VulkanTriangle.vcxproj -> C:\Game\Learn\VulkanTriangle\x64\Release\VulkanTriangle.exe
