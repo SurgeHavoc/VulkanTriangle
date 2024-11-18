@@ -40,6 +40,6 @@ I am really interested in learning graphics programming, so I made this project 
 - I worked on this project solo.
 
 ## Acknowledgements
-- Vulkan Tutorial - [The Tutorial Link](https://vulkan-tutorial.com/)
+- The Vulkan Tutorial - [vulkan-tutorial](https://vulkan-tutorial.com/)
 - GLFW Library - [GLFW](https://www.glfw.org/) for window and input management.
 - Khronos Group - For developing and maintaining the Vulkan API.
